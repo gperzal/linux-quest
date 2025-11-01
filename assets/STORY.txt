@@ -1,0 +1,13 @@
+✨ Bienvenido/a a Linux Quest — “El Camino del Programador Feliz”
+
+En el Reino del Código, los prodigios no nacen... se FORJAN.
+Quien aprende a moverse con soltura en la terminal avanza con pasos firmes,
+descubre lo oculto, entiende los permisos del reino y abre cofres cerrados.
+
+Tu misión hoy no es diferente: explora, aprende, equivócate y vuelve a intentar.
+Los comandos son tus herramientas; la curiosidad, tu brújula.
+Cuando veas números extraños al final… recuerda: no todo es texto.
+Algunas veces, el lenguaje de las máquinas es numérico, y pide ser traducido.
+
+🌱 Consejo: pequeños avances, grandes resultados.
+¡A jugar!
